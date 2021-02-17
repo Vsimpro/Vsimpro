@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Vsimpro/Vsimpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Im Ville. - aka Vsim 👋
 
 - 🔭 I’m currently working on pen-testing,
 - 🌱 I’m currently learning all-things-networking with python,
