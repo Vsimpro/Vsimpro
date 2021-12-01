@@ -1,16 +1,28 @@
-### Hi there, Im Ville. - aka Vsim 👋
+### Hi there, Im Ville -- aka Vsim 👋
 
-- 🌱 I’m currently studying data science,
-- 👯 I’m looking to collaborate on anything that may pique my interest,
-- 📫 Vsimpro#4059 on discord!
-- 😄 Pronouns: he/him, but not critical!
-- ⚡ I love to create media! Photo- and cinematography are close to heart.
+```py
+from introduction import personal_info
 
-<a href="https://vsim.xyz"> My website, vsim.xyz </a>
+class Vsim:
+    def __init__(self):
+        self.about_me = "My name is Ville, and I'm a Business Information Technology student from Finland."
+        
+        self.website = requests.get("https://vsim.xyz")
+	
+        self.os_support = 'Windows 10 / Linux'
+        self.language_support = ['Python', 'C# / C++','HTML', 'CSS']
 
-<a href="https://github-readme-stats.vercel.app/api?username=Vsimpro&count_private=true&show_icons=trues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vsimpro&count_private=true&show_icons=trues" />
-</a>
+        self.contact_info = {
+            'Discord': 'Vsimpro#4059'
+        }
+```
+
+<hr>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsimpro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsimpro" />
 </a>
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=Vsimpro&count_private=true&show_icons=trues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vsimpro&count_private=true&show_icons=trues" />
+</a>
+<hr>
