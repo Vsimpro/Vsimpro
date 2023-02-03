@@ -11,7 +11,7 @@ class Vsim:
         self.website = requests.get("https://vsim.xyz")
 	
         self.os_support = 'Windows 10 / Linux'
-        self.language_support = ['Python', 'C#','JavaScript'] // TODO: Add GoLang & C++
+        self.language_support = ['Python','Java', 'C#','JavaScript'] // TODO: Add GoLang & C++
 
         self.contact_info = {
             'Discord': 'Vsimpro#4059'
