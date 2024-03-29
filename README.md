@@ -6,7 +6,7 @@ from introduction import personal_info
 class Vsim:
     def __init__(self):
         self.about_me = """
-		My name is Ville. I have wear many hats, 
+		My name is Ville. I wear many hats, 
 		by day I work in Cybersecurity,
 		by night I am a hobbyist developer. 
 	"""
