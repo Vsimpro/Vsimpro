@@ -1,20 +1,29 @@
-### Hi there, Im Ville, most know me as Vsim 👋
+### Hello World! Im Ville, but most know me as Vsim 👋
 
 ```py
 from introduction import personal_info
 
 class Vsim:
     def __init__(self):
-        self.about_me = "My name is Ville, a learning developer from Finland."
-	self.working_on.status = "Studying BBA/Business Information Technology" 
-        
+        self.about_me = """
+		My name is Ville. I have wear many hats, 
+		by day I work in Cybersecurity,
+		by night I am a hobbyist developer. 
+	"""
+
+	self.working_on.status = "Studying a BBA/BSc in Information Technologies."         
         self.website = requests.get("https://vsim.xyz")
 	
-        self.os_support = 'Windows 10 / Linux'
-        self.language_support = ['Python','Java', 'C#','JavaScript'] // TODO: Add GoLang & C++
+        self.os_support = "Windows 10 & Linux"
+        self.language_support = [
+		"Python",     // Main Language
+		"JavaScript", // Fullstack
+		"C#"	      // Only in Dire need
+	] 
 
         self.contact_info = {
-            'Discord': 'Vsimpro#4059'
+            "Discord" : "Vsimpro#4059",
+            "Twitter/X" : "Vsimpro"		
         }
 ```
 <p>
