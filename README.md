@@ -1,34 +1,48 @@
-### Hello World! Im Ville, but most know me as Vsim 👋
+> [!CAUTION]
+> ### WARNING
+> The code in this profile has been written by certified, trained idiots. <br>
+> For your safety and the safety of the machinery, do not attempt to recreate any of the code or hacks you see implemented. <br>
+> <br> <strong>Reviewer discretion is strongly advised.</strong>
+<br>
 
-```py
-from introduction import personal_info
+> [!NOTE]  
+> ## About Me
+> I'm a major nerd who is very into cybersecurity. I like developing automation & tools on my freetime. <br>
+> You'll find my tools, projects & websites from here. 
 
-class Vsim:
-    def __init__(self):
-        self.about_me = """
-		My name is Ville. I wear many hats, 
-		by day I work in Cybersecurity,
-		by night I am a hobbyist developer. 
-	"""
-
-	self.working_on.status = "Studying a BBA/BSc in Information Technologies."         
-        self.website = requests.get("https://vsim.xyz")
+## Languages & Tech
+<details>
 	
-        self.os_support = "Windows 10 & Linux"
-        self.language_support = [
-		"Python",     // Main Language
-		"JavaScript", // Fullstack
-		"C#"	      // Only in Dire need
-	] 
+- **Languages:** Python, JavaScript, C# & Java. SQL works too!
+- **Tools:** Git(Hub), Docker, Linux and the usual suspects for IDE's.
 
-        self.contact_info = {
-            "Discord" : "Vsimpro#4059",
-            "Twitter/X" : "Vsimpro"		
-        }
-```
+</details>
+
+### Featured Projects
+<details>
+
+- [XSS-beacon using Discord](https://github.com/Vsimpro/tarpit)
+- [Discord Bot with Hacking tools](https://github.com/Vsimpro/d2)
+- [File exfli using WordPress xmlrpc POC](https://github.com/Vsimpro/pingback.transfer)
+
+</details>
+
+### Interesting Blog Posts of mine
+<details>
+
+- [Using client-side JavaScript to build hacking tools](https://blog.vsim.xyz/article/east-west-client.html)
+- [Creating a bot for a game no-one knows about](https://blog.vsim.xyz/article/bot-chelors-degree.html)
+
+</details>
+
+> [!TIP]
+> Get a hold of me on [twitter!](https://x.com/Vsimpro)
+
+<!--
 <p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsimpro">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsimpro" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vsimpro&count_private=true&show_icons=trues" />
 </a>
 </p>
+-->
