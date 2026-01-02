@@ -38,6 +38,8 @@
 > [!TIP]
 > Get a hold of me on [twitter!](https://x.com/Vsimpro)
 
+![](https://komarev.com/ghpvc/?username=Vsimpro&color=grey)
+
 <!--
 <p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsimpro">
